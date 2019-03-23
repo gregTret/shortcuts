@@ -1,0 +1,3 @@
+Contents:
+
+output.c------- Ever get tired of typing out 50 characters for debugging? This takes care of it. Has error checking and additional modifiers such as -q and -s as well as a help menu. VERY useful as a programmer
